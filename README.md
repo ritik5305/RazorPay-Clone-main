@@ -5,6 +5,18 @@ It's a website that has been designed to mimic the design of the popular Indian 
 ⭕ **This Site is Fully Responsive**
 <br>
 <br>
+## Screenshots
+
+### Business & Banking Page  
+![Business Banking](./Screenshots/buisness-banking.png)
+
+<!-- Agar aur images hain, unko aise add karo: -->
+
+### Another Page  
+![Another Screenshot](./Screenshots/another-image.png)
+
+### Responsive View  
+![Mobile View](./Screenshots/mobile-view.png)
 
 
 <br>
