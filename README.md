@@ -32,6 +32,9 @@ It's a website that has been designed to mimic the design of the popular Indian 
 
 <br>
 
+Live link of this project 
+https://razorpay-wb-reet.netlify.app
+
 ## 📌 Tech Stack
 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Shreyam-S)&nbsp;
