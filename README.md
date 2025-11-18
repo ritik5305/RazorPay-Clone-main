@@ -25,7 +25,7 @@ It's a website that has been designed to mimic the design of the popular Indian 
 ![New in the Razorpay](./screenshorts/limo.png)
 
 ## Hero sections 06
-![business with Razorpay](./screenshorts/Footer.png)
+![business with Razorpay](./screenshorts/Footer2.png)
 
 ## Hero sections 07
 ![Footer](./screenshorts/Footer.png)
