@@ -8,17 +8,27 @@ It's a website that has been designed to mimic the design of the popular Indian 
 ## Screenshots
 
 ### Business & Banking Page  
-![Business Banking](./Screenshots/buisness-banking.png)
+![Business Banking](./screenshorts/home01.png)
+## Accept patments page
+![Accept patments](./screenshorts/hero1.png)
 
-<!-- Agar aur images hain, unko aise add karo: -->
+## Hero Sections 02 
+![Payment links](./screenshorts/hero2.png)
 
-### Another Page  
-![Another Screenshot](./Screenshots/another-image.png)
+## Hero sections 03
+![Explore Razorpay Business](./screenshorts/hero3.png)
 
-### Responsive View  
-![Mobile View](./Screenshots/mobile-view.png)
+## Hero sections 04
+![businesses using Razorpay](./screenshorts/limo2.png)
 
+## Hero sections 05
+![New in the Razorpay](./screenshorts/limo.png)
 
+## Hero sections 06
+![Supercharge your business with Razorpay](./screenshorts/footer.png)
+
+## Hero sections 07
+![Footer](./screenshorts/footer2.png)
 <br>
 
 ## 📌 Tech Stack
