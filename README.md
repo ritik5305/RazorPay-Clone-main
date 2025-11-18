@@ -25,10 +25,11 @@ It's a website that has been designed to mimic the design of the popular Indian 
 ![New in the Razorpay](./screenshorts/limo.png)
 
 ## Hero sections 06
-![Supercharge your business with Razorpay](./screenshorts/footer.png)
+![business with Razorpay](./screenshorts/Footer.png)
 
 ## Hero sections 07
-![Footer](./screenshorts/footer2.png)
+![Footer](./screenshorts/Footer.png)
+
 <br>
 
 ## 📌 Tech Stack
